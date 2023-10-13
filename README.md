@@ -1,2 +1,0 @@
-# c-pro
-my project
